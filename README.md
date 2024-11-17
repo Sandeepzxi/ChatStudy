@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+# Name : Sandeep S
+# Reg:212223220092
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
